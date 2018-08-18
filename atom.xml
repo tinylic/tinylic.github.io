@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>La Comédie Humaine</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-08-18T20:55:30.455Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>tinylic</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/08/18/hello-world-1/"/>
+    <id>http://yoursite.com/2018/08/18/hello-world-1/</id>
+    <published>2018-08-18T20:52:23.000Z</published>
+    <updated>2018-08-18T20:55:30.455Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello World!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hello World!&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+    
+  </entry>
+  
+</feed>

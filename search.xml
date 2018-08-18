@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2018/08/18/hello-world-1/"/>
+      <url>/2018/08/18/hello-world-1/</url>
+      <content type="html"><![CDATA[<p>Hello World!</p>]]></content>
+      
+      
+        <tags>
+            
+            <tag> test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+  
+  
+    
+    <entry>
+      <title></title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      <content type="html"><![CDATA[<h1 id="Chen-Li"><a href="#Chen-Li" class="headerlink" title="Chen Li"></a>Chen Li</h1><p>A CMU graduate student majored in software engineering. Incoming Software Engineer at Google.</p>]]></content>
+    </entry>
+    
+  
+</search>
